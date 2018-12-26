@@ -4699,6 +4699,42 @@ body {
 .cid-rdapkMxmkI .mbr-text {
   color: #cc2952;
 }
+.cid-rdigNOkLRH {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #2e2e2e;
+}
+.cid-rdigNOkLRH .counter-container {
+  color: #767676;
+}
+.cid-rdigNOkLRH .counter-container ul {
+  margin-bottom: 0;
+}
+.cid-rdigNOkLRH .counter-container ul li {
+  margin-bottom: 1rem;
+  list-style: none;
+}
+.cid-rdigNOkLRH .counter-container ul li:before {
+  position: absolute;
+  left: 0px;
+  margin-top: -10px;
+  padding-top: 3px;
+  content: '';
+  display: inline-block;
+  text-align: center;
+  margin: 5px 10px;
+  line-height: 20px;
+  transition: all .2s;
+  color: #ffffff;
+  background: #149dcc;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  content: '✓';
+}
+.cid-rdigNOkLRH .mbr-text UL {
+  color: #efefef;
+}
 .cid-rdapkRxrRL {
   padding-top: 15px;
   padding-bottom: 0px;
@@ -4773,50 +4809,31 @@ body {
 .cid-rdbNhk7e3R .mbr-section-subtitle {
   color: #7f1933;
 }
-.cid-rdbNBLH4lu {
-  padding-top: 60px;
-  padding-bottom: 60px;
+.cid-rdidbEEDNY {
+  padding-top: 15px;
+  padding-bottom: 15px;
   background-color: #2e2e2e;
 }
-.cid-rdbNBLH4lu .counter-container {
-  color: #767676;
-}
-.cid-rdbNBLH4lu .counter-container ol {
+.cid-rdidbEEDNY h4 {
+  font-weight: 500;
   margin-bottom: 0;
-  counter-reset: myCounter;
-}
-.cid-rdbNBLH4lu .counter-container ol li {
-  margin-bottom: 1rem;
-}
-.cid-rdbNBLH4lu .counter-container ol li {
-  list-style: none;
-  padding-left: .5rem;
-}
-.cid-rdbNBLH4lu .counter-container ol li:before {
-  position: absolute;
-  left: 0px;
-  margin-top: -10px;
-  counter-increment: myCounter;
-  content: counter(myCounter);
-  display: inline-block;
-  text-align: center;
-  margin: 5px 10px;
-  line-height: 40px;
-  transition: all .2s;
-  color: #ffffff;
-  background: #149dcc;
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
-}
-.cid-rdbNBLH4lu .mbr-text LI {
-  color: #efefef;
-}
-.cid-rdbNBLH4lu .mbr-text B {
-  color: #ff3366;
-}
-.cid-rdbNBLH4lu .mbr-text {
   text-align: left;
+}
+.cid-rdidbEEDNY p {
+  color: #767676;
+  text-align: left;
+}
+.cid-rdidbEEDNY .card-box {
+  padding-top: 2rem;
+}
+.cid-rdidbEEDNY .card-wrapper {
+  height: 100%;
+}
+.cid-rdidbEEDNY .card-title {
+  color: #ffc80f;
+}
+.cid-rdidbEEDNY P {
+  color: #efefef;
 }
 .cid-rdbRPhf5wk {
   padding-top: 15px;
@@ -4826,50 +4843,54 @@ body {
 .cid-rdbRPhf5wk .mbr-section-subtitle {
   color: #7f1933;
 }
-.cid-rdbStw2SlR {
-  padding-top: 60px;
-  padding-bottom: 60px;
+.cid-rdi3W0L9A4 {
+  padding-top: 15px;
+  padding-bottom: 0px;
   background-color: #2e2e2e;
 }
-.cid-rdbStw2SlR .counter-container {
+.cid-rdi3W0L9A4 h4 {
+  text-align: left;
+  font-weight: 500;
+}
+.cid-rdi3W0L9A4 p {
   color: #767676;
+  text-align: left;
 }
-.cid-rdbStw2SlR .counter-container ol {
+.cid-rdi3W0L9A4 .card-img {
+  text-align: left;
+  padding-right: 30px;
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+  width: auto;
+}
+.cid-rdi3W0L9A4 .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+.cid-rdi3W0L9A4 .card-title {
   margin-bottom: 0;
-  counter-reset: myCounter;
 }
-.cid-rdbStw2SlR .counter-container ol li {
-  margin-bottom: 1rem;
+.cid-rdi3W0L9A4 .mbr-crt-title {
+  -webkit-flex-grow: 1;
+  flex-grow: 1;
 }
-.cid-rdbStw2SlR .counter-container ol li {
-  list-style: none;
-  padding-left: .5rem;
+.cid-rdi3W0L9A4 .media {
+  margin: initial;
+  align-items: center;
+  -webkit-align-items: center;
 }
-.cid-rdbStw2SlR .counter-container ol li:before {
-  position: absolute;
-  left: 0px;
-  margin-top: -10px;
-  counter-increment: myCounter;
-  content: counter(myCounter);
-  display: inline-block;
-  text-align: center;
-  margin: 5px 10px;
-  line-height: 40px;
-  transition: all .2s;
-  color: #ffffff;
-  background: #149dcc;
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
+@media (max-width: 300px) {
+  .cid-rdi3W0L9A4 .card-img span {
+    font-size: 40px !important;
+  }
 }
-.cid-rdbStw2SlR .mbr-text LI {
+.cid-rdi3W0L9A4 P {
+  text-align: left;
   color: #efefef;
 }
-.cid-rdbStw2SlR .mbr-text B {
-  color: #ff3366;
-}
-.cid-rdbStw2SlR .mbr-text {
-  text-align: left;
+.cid-rdi3W0L9A4 .card-title,
+.cid-rdi3W0L9A4 .card-img {
+  color: #efefef;
 }
 .cid-rdbWlrvBW7 {
   padding-top: 15px;
