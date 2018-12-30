@@ -1,0 +1,10 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/myhavyak/public_html/haaconventiontest/
+    - /bin/cp index.html $DEPLOYPATH
+    - /bin/cp page2.html $DEPLOYPATH
+    - /bin/cp register.html $DEPLOYPATH
+    - /bin/cp sponsor.html $DEPLOYPATH
+    - /bin/cp TravelInfo.html $DEPLOYPATH
+    - /bin/cp-r ./assets/ $DEPLOYPATH
