@@ -7,4 +7,4 @@ deployment:
     - /bin/cp register.html $DEPLOYPATH
     - /bin/cp sponsor.html $DEPLOYPATH
     - /bin/cp TravelInfo.html $DEPLOYPATH
-    - /bin/cp-r ./assets/ $DEPLOYPATH
+    - /bin/cp -r ./assets/ $DEPLOYPATH
