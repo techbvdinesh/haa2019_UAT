@@ -57,7 +57,7 @@
                 </li></ul>
             <div class="navbar-buttons mbr-section-btn"><a class="btn btn-sm btn-primary display-4" href="http://haaconvention.org/register.html"><span class="mbrib-cart-add mbr-iconfont mbr-iconfont-btn" style="color: rgb(255, 51, 102);"></span>
                     
-                    REGISTRATION</a></div>
+                    REGISTER</a></div>
         </div>
     </nav>
 </section>
@@ -580,7 +580,7 @@
                 <p class="mbr-text">
                     <strong>Address</strong>
                     <br>
-                    <br><strong>Chinese Cultural Center of Greater Toronto</strong><br><em>5183 Sheppard Ave E Scarborough, ON<br>M1B 5Z5, Canada</em><br>
+                    <br><strong>Chinese Cultural Center of Greater Toronto</strong><br><em>5183 Sheppard Ave E Scarborough, ON<br>M1B 5Z5,  Canada</em><br>
                     <br><strong>Contacts</strong>
                     <br>
                     <br>Email: &nbsp; haa2019@gmail.com Phone: +1 (905) 737 9040 <br>Web: &nbsp;<a href="https://havyak.org" target="_blank">www.havyak.org </a><br>2019: <a href="http://www.haaconvention.org">www.haaconvention.org</a><br></p>
@@ -596,7 +596,7 @@
                 </p>
             </div>
             <div class="col-12 col-md-6">
-                <div class="google-map"><iframe frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyA0Dx_boXQiwvdz8sJHoYeZNVTdoWONYkU&amp;q=place_id:ChIJWS1s0OfQ1IkRMMm8oFN8m78" allowfullscreen=""></iframe></div>
+                <div class="google-map"></div>
             </div>
         </div>
         <div class="footer-lower">
@@ -835,7 +835,7 @@
                 
                 <p class="mbr-text align-center pb-3 mbr-fonts-style display-5">
                     Purchase souvenir adds online</p>
-                <div class="mbr-section-btn align-center"><a class="btn btn-md btn-secondary display-4" href="http://haaconvention.org/sponsor.html">BUY SOUVENIR ADDS</a></div>
+                <div class="mbr-section-btn align-center"><a class="btn btn-md btn-secondary display-4" href="https://haaconvention.org/sponsor">BUY SOUVENIR ADDS</a></div>
             </div>
         </div>
     </div>
@@ -1123,7 +1123,7 @@
 
      
 
-    <div class="google-map"><iframe frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyA0Dx_boXQiwvdz8sJHoYeZNVTdoWONYkU&amp;q=place_id:ChIJ5UEKoMjR1IkR4lP0HeME_ns" allowfullscreen=""></iframe></div>
+    <div class="google-map"></div>
 </section>
 
 <section class="mbr-section article content1 cid-rcbZF9A5WN" id="content1-31">
